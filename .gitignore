@@ -1,0 +1,17 @@
+# Local exports and sensitive material
+.env
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+private/
+*.pcap
+*.evtx
+*.log
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
