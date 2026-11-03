@@ -2,8 +2,7 @@
 
 A hands-on, defensive Security Operations Center (SOC) home lab built around **Wazuh**, **Windows event logging**, **Sysmon**, and **MITRE ATT&CK**.
 
-> **Project status:** Starter repository / implementation guide. Replace every `TODO` with your own lab details and evidence as you build it. Do not describe detections as tested until you have generated the event, observed it in Wazuh, and saved evidence.
-
+> **Project status:** Starter repository / implementation guide. 
 ## Project goals
 
 - Centralize endpoint security telemetry in a SIEM.
