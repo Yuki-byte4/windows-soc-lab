@@ -91,6 +91,6 @@ Update this table as you complete the work.
 
 ## Author
 
-**TODO:** Add your name, LinkedIn, and GitHub profile if you want them public.
+**TODO:** Sopio Dgebuadze, https://www.linkedin.com/in/sopio-d-a817b4377/ 
 
 This repository is a learning portfolio project. All results and screenshots should represent work actually completed in your own lab.
